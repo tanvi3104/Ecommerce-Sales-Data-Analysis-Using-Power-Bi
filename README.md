@@ -12,6 +12,12 @@ User-Driven Parameters: Implemented filters, slicers, and drill-down functionali
 
 Data Manipulation: Performed data manipulation and created calculations by connecting and joining new tables to support the visualizations.
 
+🖼️ Dashboard Preview
+
+<img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/ef22d3ce-7a26-4570-9fbb-c2f7ae327b44" />
+
+
+
 📖 How to Use
 
 Clone or Download this repository.
