@@ -16,6 +16,7 @@ Data Manipulation: Performed data manipulation and created calculations by conne
 
 <img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/ef22d3ce-7a26-4570-9fbb-c2f7ae327b44" />
 
+<img width="1155" height="657" alt="image" src="https://github.com/user-attachments/assets/f5f607ab-1b59-450c-988e-ac223de2a19e" />
 
 
 📖 How to Use
